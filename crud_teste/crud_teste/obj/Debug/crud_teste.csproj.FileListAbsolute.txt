@@ -1,0 +1,11 @@
+D:\Users\2022103030011\source\repos\crud_teste\crud_teste\bin\Debug\crud_teste.exe.config
+D:\Users\2022103030011\source\repos\crud_teste\crud_teste\bin\Debug\crud_teste.exe
+D:\Users\2022103030011\source\repos\crud_teste\crud_teste\bin\Debug\crud_teste.pdb
+D:\Users\2022103030011\source\repos\crud_teste\crud_teste\obj\Debug\crud_teste.csproj.AssemblyReference.cache
+D:\Users\2022103030011\source\repos\crud_teste\crud_teste\obj\Debug\crud_teste.csproj.SuggestedBindingRedirects.cache
+D:\Users\2022103030011\source\repos\crud_teste\crud_teste\obj\Debug\crud_teste.Form1.resources
+D:\Users\2022103030011\source\repos\crud_teste\crud_teste\obj\Debug\crud_teste.Properties.Resources.resources
+D:\Users\2022103030011\source\repos\crud_teste\crud_teste\obj\Debug\crud_teste.csproj.GenerateResource.cache
+D:\Users\2022103030011\source\repos\crud_teste\crud_teste\obj\Debug\crud_teste.csproj.CoreCompileInputs.cache
+D:\Users\2022103030011\source\repos\crud_teste\crud_teste\obj\Debug\crud_teste.exe
+D:\Users\2022103030011\source\repos\crud_teste\crud_teste\obj\Debug\crud_teste.pdb
