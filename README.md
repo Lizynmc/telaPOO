@@ -25,3 +25,7 @@ Esse projeto é usado pelas seguintes empresas:
 | Cor exemplo       | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) # #6BCAE2|
 | Cor exemplo       | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 (perguiça de ver as cores)
+
+## Suporte
+
+Para suporte, mande um email para aammaaraalliizzx@gmail.com ou entre em nosso canal do yt
